@@ -1,2 +1,2 @@
-	npm_modues
-	.env
+node_modules/
+.env
